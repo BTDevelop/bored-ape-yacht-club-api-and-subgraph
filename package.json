@@ -13,7 +13,7 @@
     "@graphprotocol/graph-ts": "0.22.1",
     "axios": "^0.21.1",
     "fs": "^0.0.1-security",
-    "ipfs-http-client": "^52.0.2",
+    "ipfs-http-client": "^58.0.0",
     "js-base64": "^3.6.1"
   },
   "devDependencies": {
